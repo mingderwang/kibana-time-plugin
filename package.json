@@ -1,4 +1,13 @@
 {
-	"name": "kibana-time-plugin",
-	"version": "5.0.0"
+  "name": "kibana-time-plugin",
+  "version": "kibana",
+  "description": "time plugin",
+  "main": "index.js",
+  "kibana": {
+    "version": "6.0.0"
+  },
+  "repository": {
+      "type": "git",
+        "url": "git://github.com/test/repository.git"
+  }
 }
